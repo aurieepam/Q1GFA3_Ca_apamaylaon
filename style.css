@@ -33,7 +33,7 @@
 .banner2 h1{font-family:'Montserrat'; color:black; font-size: 4em; margin-top: 1em; text-align: center;}
 .banner2 h2{font-family:'Montserrat'; color:black; font-size: 2.5em;}
 .banner2 h3{font-family:'Montserrat'; color:black; font-size: 1.5em;}
-.banner2 p{font-family:'Montserrat'; color:black; font-size: 1.5em; text-align: justify;}
+.banner2 p{font-family:'Montserrat'; color:black; font-size: 1em; text-align: justify;}
 .school img{float:left ;width: 50%;  margin-right:20px; margin-left: 20px; margin-bottom: 10px; border-radius: 5px;}
 .q1 p{float:right; display: inline-block;}
 .glevel img{float:left ;width: 50%;  margin-right:20px; margin-left: 20px; margin-bottom: 10px; border-radius: 5px;}
@@ -41,9 +41,12 @@
 .banner3 h1{font-family:'Montserrat'; color:black; font-size: 4em; margin-top: 1em; text-align: center;}
 .banner3{text-align: left;}
 .banner3 table{margin-left: 5px; margin-right: 5px; width: 100%; border: 2px solid black;}
-.banner3 h2{font-family: 'Montserrat'; margin-right: 0.5em; font-size: 1.5em; text-align: center;}
-.banner3 th{position: sticky; top: 0px; background-color: #007EA7; border: 2px solid #000000;}
+.banner3 h2{font-family: 'Montserrat'; margin-right: 0.5em; font-size: 1em; text-align: center;}
+.banner3 th{top: 0px; background-color: #007EA7; border: 2px solid #000000;}
 .banner3 tr{font-family: 'Nunito'; height: 20px;}
+.banner3 td:nth-child(4) {text-align: right; padding-right: 20px;}
+.banner3 td:nth-child(3) {text-align: right; padding-right: 20px;}
+.banner3 td:nth-child(5) {text-align: right; padding-right: 20px;}
 .banner3 tr:hover {background-color: #D6EEEE;}
 .banner5{margin-left: 1em; margin-right: 1em;}
 .banner5 h1{font-family:'Montserrat'; color:black; font-size: 4em; margin-top: 1em; text-align: center;}
